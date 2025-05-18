@@ -1,11 +1,5 @@
 # Agriculture_Reccomendation_system
-for CAD project
-
-Akshat Rathi (11422210001)
-
-Jash Shah (11422210003)
-
-![image](https://github.com/Akshat-192004/Agriculture_Reccomendation_system/assets/146803521/6c679af9-bd8b-44e0-8f67-1684f24c059f)
+Akshat Rathi
 
 
 # Overview
