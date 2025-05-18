@@ -1,4 +1,4 @@
-# Agriculture_Reccomendation_system
+# Agriculture_Recommendation_system
 Akshat Rathi
 
 
